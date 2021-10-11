@@ -1,1 +1,1 @@
-
+featureExtraction uses Lextractfeature_v17.m to extract Pathomic features. The dependent codes of Lextractfeature_v17.m are stored in Dependency.zip. If any file is missing, please contact chuheng.chen@case.edu
